@@ -1,0 +1,46 @@
+
+body {
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+h1{
+    color: Purple;
+    width: 50px;
+    font-size: 100px;
+    height: 150px;
+}
+h2{ 
+    color: green;
+    width 100px;
+    font-size: 200px;
+    height: 200px;
+}
+
+h3{
+    color: green;
+    width: 100px;
+    font-size: 200px;
+    height: 200px;
+}
+
+p {
+    color: white;
+}
+
+p2 {
+    color: white;
+}
+footer {
+    text-align: center;
+}
+
+.image-container {
+display : flex;
+justify-content: space-between;
+    
+}
+div#pictures {
+    text-align: center;
+  }
+
